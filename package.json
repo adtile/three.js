@@ -2,6 +2,7 @@
   "name": "three",
   "version": "0.80.1",
   "description": "JavaScript 3D library",
+  "module": "src/Three.js",
   "main": "build/three.js",
   "files": [
     "package.json",
